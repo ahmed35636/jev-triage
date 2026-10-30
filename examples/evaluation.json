@@ -1,0 +1,23 @@
+{
+  "labeled_events": 10,
+  "accuracy": 1.0,
+  "escalation_rate": 0.7,
+  "confusion_matrix": [
+    {
+      "expected": "benign",
+      "predicted": "benign",
+      "count": 2
+    },
+    {
+      "expected": "suspicious",
+      "predicted": "suspicious",
+      "count": 5
+    },
+    {
+      "expected": "unknown",
+      "predicted": "unknown",
+      "count": 3
+    }
+  ],
+  "note": "Synthetic fixture results test behavior; they do not estimate production accuracy or confidence calibration."
+}

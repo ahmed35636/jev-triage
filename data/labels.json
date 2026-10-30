@@ -1,0 +1,12 @@
+{
+  "LAB-WS01:1": "benign",
+  "LAB-WS01:2": "suspicious",
+  "LAB-WS01:3": "unknown",
+  "LAB-WS01:4": "suspicious",
+  "LAB-WS01:5": "unknown",
+  "LAB-WS01:6": "suspicious",
+  "LAB-WS01:7": "suspicious",
+  "LAB-WS01:8": "suspicious",
+  "LAB-WS01:9": "benign",
+  "LAB-WS01:10": "unknown"
+}
